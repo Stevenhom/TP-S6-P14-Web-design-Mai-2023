@@ -1,0 +1,36 @@
+--Site Web et backoffice--
+Quoi? 
+    Informations sur IA 
+        -Description(page)
+        -Different article(page)
+            .Machine learning
+            .Langage naturel
+            .Vision par ordi
+        -Experimentation(page)
+            .Sante
+            .education
+            .article
+            .divertissement
+            .securite
+        -Personnalite dans l'IA(page)
+        -Autres ressources ou lien (page)
+        -Petits quizz etc(page)
+
+Pourquoi? 
+    Obtenir un site à Informations
+    Gerer un site et ses Informations
+
+Comment?
+    Techno: PHP/ Codeigneter
+    Base: PostreSQL
+
+    Front-Office:
+        -acceuil
+        -Categorie
+        -About
+        -Contact
+
+    Back-Office:
+        -Login
+        -CRUD Informations
+        

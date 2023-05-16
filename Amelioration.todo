@@ -1,0 +1,31 @@
+Projet Gestion (Amelioration):
+    Gianno:
+         ✔ Table Avance @done(22-10-11 21:40)
+         ✔ Integrer l'avance dans fiche de paie @done(22-10-11 23:44)
+         ✔ affichage fiche de paie avec 2 chiffres et virgule @done(22-10-12 02:30)
+         ✔ majoration heure de nuit @done(22-10-12 02:28)
+        ☐ Calcule congé Total Employé si fermeture de l' Entreprise
+        ☐ Details Avance dans fiche de paie
+        ☐ Details Conge dans fiche de paie
+        ☐ Details Heure Sup dans fiche de paie
+        ☐ Details Absence dans fiche de paie
+        ☐ Generation contrat en pdf
+
+    Tahina: @high
+        ☐ bug
+        ☐ Formulaire de mise a jour SME & SMA
+        ☐ Etat de paie
+        ☐ Total dans chaque colonne de l' Etat de paie
+        ☐ Lien vers fiche de paie d' un employee
+
+    Mendrika:
+        ☐ corriger bug irsa @high
+        ☐ Ajout des information professionnel dans le profile (Type de contrat, departement, salaire, Matricule, cnaps ....)
+        ☐ Ajout Historique d' Absence dans le profile d' un employee + filtre (date,...)
+        ☐ Ajout Historique d' heure sup dans le profile d' un employee + filtre (date,...)
+
+    Steve:
+        ☐ liste de tous les employees + filtre
+        ☐ liste avec lien vers le profile de l' employee
+        ☐ nbr d' employee par departement
+        ☐ Module de recherche
